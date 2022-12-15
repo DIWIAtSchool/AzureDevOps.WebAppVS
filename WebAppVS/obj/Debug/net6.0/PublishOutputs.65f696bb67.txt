@@ -1,0 +1,14 @@
+c:\temp\WebAppVS.exe
+c:\temp\appsettings.Development.json
+c:\temp\appsettings.json
+c:\temp\bundleconfig.json
+c:\temp\WebAppVS.dll
+c:\temp\WebAppVS.deps.json
+c:\temp\WebAppVS.runtimeconfig.json
+c:\temp\WebAppVS.pdb
+c:\temp\System.Data.SqlClient.dll
+c:\temp\runtimes\win-arm64\native\sni.dll
+c:\temp\runtimes\win-x64\native\sni.dll
+c:\temp\runtimes\win-x86\native\sni.dll
+c:\temp\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\temp\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
